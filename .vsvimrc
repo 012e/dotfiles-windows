@@ -1,0 +1,5 @@
+set relativenumber
+set number
+map <C-f> :vsc Edit.QuickInfo<CR>
+map [e :vsc View.PreviousError
+map ]e :vsc View.NextError
