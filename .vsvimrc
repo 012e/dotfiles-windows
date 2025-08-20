@@ -3,3 +3,5 @@ set number
 map <C-f> :vsc Edit.QuickInfo<CR>
 map [e :vsc View.PreviousError<CR>
 map ]e :vsc View.NextError<CR>
+
+nnoremap K :vsc Edit.QuickInfo<CR>
